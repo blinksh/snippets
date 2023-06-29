@@ -1,0 +1,1 @@
+tail -n ${lines} ${file}

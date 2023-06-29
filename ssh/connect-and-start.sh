@@ -1,0 +1,1 @@
+ssh -t ${user@}${host} -- ${start_command}

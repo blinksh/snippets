@@ -1,0 +1,1 @@
+find . -type f -size +${larger_than}M -exec rm {}

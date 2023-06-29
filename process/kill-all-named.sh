@@ -1,0 +1,1 @@
+pkill ${process_name}

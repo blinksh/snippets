@@ -1,0 +1,1 @@
+curl -L -O ${url1} -O ${url2} -o ${file_name_1} -o ${file_name_2}

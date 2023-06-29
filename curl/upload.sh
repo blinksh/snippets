@@ -1,0 +1,1 @@
+curl -F "${parameter}=@${local_file}" ${upload_url}

@@ -1,0 +1,1 @@
+tar xvf ${archive_name}.tar.${extension} ${path_to_file}

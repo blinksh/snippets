@@ -1,0 +1,1 @@
+scp ${user_1}@${host_1#port}:${remote_path_1} ${user_2}@${host_2#port]}:${remote_path_2}

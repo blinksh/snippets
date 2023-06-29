@@ -1,0 +1,1 @@
+curl -d "${param_1}=${value_1}&${param_2}=${value_2}" ${post_url}

@@ -1,0 +1,1 @@
+head -n ${lines} ${file}

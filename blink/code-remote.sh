@@ -1,0 +1,1 @@
+code ${host}:~/${remote_path}

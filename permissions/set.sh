@@ -1,0 +1,1 @@
+chmod ${ago}+${rwx} ${element}

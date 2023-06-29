@@ -1,0 +1,1 @@
+chown --reference=${like_file} ${file}

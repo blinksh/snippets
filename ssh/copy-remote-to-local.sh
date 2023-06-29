@@ -1,0 +1,1 @@
+scp ${user}@${host#port}:${remote_path} ${local_path}

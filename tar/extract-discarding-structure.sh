@@ -1,0 +1,1 @@
+tar xvf ${archive_name}.tar.${extension} --strip=${num_path_segments} -C ${to_path}

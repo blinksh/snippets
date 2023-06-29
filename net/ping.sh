@@ -1,0 +1,1 @@
+ping -c 10 ${host}

@@ -1,0 +1,1 @@
+mosh ${user}@${host}

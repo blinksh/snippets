@@ -1,0 +1,1 @@
+chmod 744 ${element}
