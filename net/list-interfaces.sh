@@ -1,1 +1,1 @@
-ifconfig
+ip link show

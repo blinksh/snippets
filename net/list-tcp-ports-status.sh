@@ -1,1 +1,1 @@
-netstat -lt
+ss -lt
